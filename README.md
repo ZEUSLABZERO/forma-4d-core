@@ -1,9 +1,15 @@
 # forma-4d-core
 
-[![The 4D core running live: a tesseract shell and a Clifford torus, sliced in prism glass](preview.png)](https://forma-zero.com/playground/?utm_source=github)
+[![The 4D core running live in the playground: the pointer turns a tesseract shell blended with a Clifford torus, sliced in prism glass](preview.gif)](https://forma-zero.com/playground/?utm_source=github)
+
+*Screen recording of the live playground (pointer moved by a script), 12 frames per second in this GIF.*
 
 **Live preview:** [forma-zero.com/playground](https://forma-zero.com/playground/?utm_source=github) — turn it with the pointer, change the slice, the spin and the dispersion, add one of eleven grooves, save a PNG.
 **Built with it:** [FORMA](https://forma-zero.com/?utm_source=github) — 27 finished works on one living wall; Pro Pass starts with a 7-day free trial. Creators can [list their own work](https://forma-zero.com/submit/?utm_source=github) and keep 80% of FORMA-sent sales for their first 90 days (70% after).
+
+**Free starter:** the first card on [forma-zero.com](https://forma-zero.com/?utm_source=github&utm_content=v55-readme) after today's drop is KAZE ($0) — a scroll-in launch page with every word in one `EDIT` block.
+**MCP:** `claude mcp add --transport http forma https://zeuslab-zero.com/mcp` lists the works and their free prompts (read-only).
+**Founding creators:** terms and how to apply are in [Discussion #2](https://github.com/ZEUSLABZERO/forma-4d-core/discussions/2).
 
 A four-dimensional form, sliced live in the browser. One WebGL2 fragment shader, one small JavaScript file, no dependencies, no build step.
 
